@@ -1,0 +1,17 @@
+body{
+    place-items: flex-start
+}
+h1{
+    font-family: sans-serif;
+}
+#main{
+    padding: 15px;
+}
+
+.boxed{
+  width: 200px;
+  border: 1px black solid;
+}
+.selected{
+    font-weight: bold;
+}
